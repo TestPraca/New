@@ -1,2 +1,1 @@
-cos
-weasda
+To jest przykładowy plik
