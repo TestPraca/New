@@ -1,1 +1,1 @@
-To jest test pliku
+Kolejny test pliku
