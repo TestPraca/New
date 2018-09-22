@@ -1,0 +1,62 @@
+[
+{   "Employee_id" : "345345",
+"name" : "Helga Martinez",
+"Contact_Info" : {
+"skype" : "mySkype",
+"email" : "myemail@email.com"
+},
+"Position" : "PM",
+"LOB" : "my lob",
+"Location" : "onshore",
+"Profile_Picture" : "URL",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "786",
+"name" : "jordan loaiza",
+"Contact_Info" : {
+"skype" : "the Skype",
+"email" : "theemail@email.com"
+},
+"Position" : "Dev",
+"LOB" : "the lob",
+"Location" : "offshore",
+"Profile_Picture" : "url/URL",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "23425",
+"name" : "marvin solano",
+"Contact_Info" : {
+"skype" : "3 Skype",
+"email" : "3email@email.com"
+},
+"Position" : "Front-End",
+"LOB" : "3 LOB",
+"Location" : "offshore",
+"Profile_Picture" : "url/URL/3",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "7657",
+"name" : "leroy bernard",
+"Contact_Info" : {
+"skype" : "5 Skype",
+"email" : "5email@email.com"
+},
+"Position" : "Sr Software Engineer",
+"LOB" : "5 LOB",
+"Location" : "onshore",
+"Profile_Picture" : "url/URL/5",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "78987",
+"name" : "diego porras",
+"Contact_Info" : {
+"skype" : "6 Skype",
+"email" : "6email@email.com"
+},
+"Position" : "Sr Front-End",
+"LOB" : "6 LOB",
+"Location" : "onshore",
+"Profile_Picture" : "url/URL/6",
+"Read_More" : "tons of things to say about me . . ."
+}
+]
