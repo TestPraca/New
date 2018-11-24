@@ -1,1 +1,62 @@
-"{\"cells\":[{\"type\":\"org.Arrow\",\"source\":{\"id\":\"17f1f44a-d847-476e-8046-6be2b76b92c9\"},\"target\":{\"selector\":\".card\",\"id\":\"de06b468-436f-4964-a495-14cf89b90f2a\"},\"z\":-1,\"vertices\":[{\"x\":700,\"y\":180}],\"id\":\"365adc0e-d735-420a-97c8-fcd7b8520de1\",\"attrs\":{\".connection\":{\"stroke\":\"#4b4a67\",\"stroke-width\":\"2\",\"fill\":\"none\",\"stroke-linejoin\":\"round\"}}},{\"type\":\"org.Member\",\"size\":{\"width\":180,\"height\":70},\"position\":{\"x\":224,\"y\":59},\"angle\":0,\"id\":\"85a34c89-6272-4de9-95eb-c983e42dadb1\",\"z\":1,\"attrs\":{\".card\":{\"fill\":\"#30d0c6\",\"stroke\":\"none\"},\"image\":{\"xlink:href\":\"\/images\/demos\/orgchart\/URL\",\"opacity\":0.7},\".rank\":{\"text\":\"PM\",\"fill\":\"#000\",\"word-spacing\":\"-5px\",\"letter-spacing\":0},\".name\":{\"font-family\":\"Arial\",\"font-size\":13,\"text\":\"Helga Martinez\",\"fill\":\"#000\",\"letter-spacing\":0}}},{\"type\":\"org.Member\",\"size\":{\"width\":180,\"height\":70},\"position\":{\"x\":0,\"y\":200},\"angle\":0,\"id\":\"17f1f44a-d847-476e-8046-6be2b76b92c9\",\"z\":2,\"attrs\":{\".card\":{\"fill\":\"#7c68fd\",\"stroke\":\"none\"},\"image\":{\"xlink:href\":\"\/images\/demos\/orgchart\/url\/URL\",\"opacity\":0.7},\".rank\":{\"text\":\"Dev\",\"fill\":\"#000\",\"word-spacing\":\"-5px\",\"letter-spacing\":0},\".name\":{\"font-family\":\"Arial\",\"font-size\":13,\"text\":\"jordan loaiza\",\"fill\":\"#000\",\"letter-spacing\":0}}},{\"type\":\"org.Member\",\"size\":{\"width\":180,\"height\":70},\"position\":{\"x\":200,\"y\":200},\"angle\":0,\"id\":\"121a692d-e05f-485f-9749-02c533961a97\",\"z\":3,\"attrs\":{\".card\":{\"fill\":\"#7c68fd\",\"stroke\":\"none\"},\"image\":{\"xlink:href\":\"\/images\/demos\/orgchart\/url\/URL\/3\",\"opacity\":0.7},\".rank\":{\"text\":\"Front-End\",\"fill\":\"#000\",\"word-spacing\":\"-5px\",\"letter-spacing\":0},\".name\":{\"font-family\":\"Arial\",\"font-size\":13,\"text\":\"marvin solano\",\"fill\":\"#000\",\"letter-spacing\":0}}},{\"type\":\"org.Member\",\"size\":{\"width\":180,\"height\":70},\"position\":{\"x\":400,\"y\":200},\"angle\":0,\"id\":\"4a6e7f5c-4e1b-4cea-9a66-05e32d304c42\",\"z\":4,\"attrs\":{\".card\":{\"fill\":\"#7c68fd\",\"stroke\":\"none\"},\"image\":{\"xlink:href\":\"\/images\/demos\/orgchart\/url\/URL\/5\",\"opacity\":0.7},\".rank\":{\"text\":\"Sr Software Engineer\",\"fill\":\"#000\",\"word-spacing\":\"-5px\",\"letter-spacing\":0},\".name\":{\"font-family\":\"Arial\",\"font-size\":13,\"text\":\"leroy bernard\",\"fill\":\"#000\",\"letter-spacing\":0}}},{\"type\":\"org.Member\",\"size\":{\"width\":180,\"height\":70},\"position\":{\"x\":600,\"y\":200},\"angle\":0,\"id\":\"de06b468-436f-4964-a495-14cf89b90f2a\",\"z\":5,\"attrs\":{\".card\":{\"fill\":\"#7c68fd\",\"stroke\":\"none\"},\"image\":{\"xlink:href\":\"\/images\/demos\/orgchart\/url\/URL\/6\",\"opacity\":0.7},\".rank\":{\"text\":\"Sr Front-End\",\"fill\":\"#000\",\"word-spacing\":\"-5px\",\"letter-spacing\":0},\".name\":{\"font-family\":\"Arial\",\"font-size\":13,\"text\":\"diego porras\",\"fill\":\"#000\",\"letter-spacing\":0}}}],\"graphCustomProperty\":true,\"graphExportTime\":1543064156412}"
+[
+{   "Employee_id" : "345345",
+"name" : "Helga Martinez",
+"Contact_Info" : {
+"skype" : "mySkype",
+"email" : "myemail@email.com"
+},
+"Position" : "PM",
+"LOB" : "my lob",
+"Location" : "onshore",
+"Profile_Picture" : "URL",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "786",
+"name" : "jordan loaiza",
+"Contact_Info" : {
+"skype" : "the Skype",
+"email" : "theemail@email.com"
+},
+"Position" : "Dev",
+"LOB" : "the lob",
+"Location" : "offshore",
+"Profile_Picture" : "url/URL",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "23425",
+"name" : "marvin solano",
+"Contact_Info" : {
+"skype" : "3 Skype",
+"email" : "3email@email.com"
+},
+"Position" : "Front-End",
+"LOB" : "3 LOB",
+"Location" : "offshore",
+"Profile_Picture" : "url/URL/3",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "7657",
+"name" : "leroy bernard",
+"Contact_Info" : {
+"skype" : "5 Skype",
+"email" : "5email@email.com"
+},
+"Position" : "Sr Software Engineer",
+"LOB" : "5 LOB",
+"Location" : "onshore",
+"Profile_Picture" : "url/URL/5",
+"Read_More" : "optional section"
+},
+{   "Employee_id" : "78987",
+"name" : "diego porras",
+"Contact_Info" : {
+"skype" : "6 Skype",
+"email" : "6email@email.com"
+},
+"Position" : "Sr Front-End",
+"LOB" : "6 LOB",
+"Location" : "onshore",
+"Profile_Picture" : "url/URL/6",
+"Read_More" : "tons of things to say about me . . ."
+}
+]
