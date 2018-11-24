@@ -1,1 +1,14 @@
-{"cells":[{"type":"inz.uml","name":"test","attributes":[],"methods":[],"position":{"x":100,"y":30},"size":{"width":200,"height":500},"angle":0,"id":"6c7f03c4-0e0a-4afa-9fd4-5d3d92489acc","z":1,"attrs":{".uml-class-name-rect":{"stroke":"#ffffff","stroke-width":0.5,"fill":"#68ddd5","height":40,"transform":"translate(0,0)","name":"test"},".uml-class-attrs-rect":{"stroke":"#fff","stroke-width":0.5,"fill":"#9687fe","height":20,"transform":"translate(0,40)"},".uml-class-methods-rect":{"stroke":"#fff","stroke-width":0.5,"fill":"#9687fe","height":20,"transform":"translate(0,60)"},".uml-class-name-text":{"text":"test"},".uml-class-attrs-text":{"text":""},".uml-class-methods-text":{"text":""}}}]}
+{
+    cells: [{
+        id: 1,
+        type: 'standard.Rectangle',
+        position: {
+            x: 100,
+            y: 100
+        },
+        size: {
+            width: 100,
+            height: 100
+        }
+    }]
+}
