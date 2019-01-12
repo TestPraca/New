@@ -1,0 +1,14 @@
+{
+    cells: [{
+        id: 1,
+        type: 'standard.Rectangle',
+        position: {
+            x: 100,
+            y: 100
+        },
+        size: {
+            width: 100,
+            height: 100
+        }
+    }]
+}
